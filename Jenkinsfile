@@ -1,17 +1,18 @@
 pipeline {
   agent any
     stages {
-        stage ('Build') {
+        stage ('Building') {
             steps {
                 sh '''#!/bin/bash
                 python3.7 -m venv venv
                 source venv/bin/activate
                 pip install pip --upgrade
                 pip install -r requirements.txt
+                echo "This is a build"
                 '''
             }
         }
-        stage ('Test') {
+        stage ('Testing') {
             steps {
                 sh '''#!/bin/bash
                 source venv/bin/activate
