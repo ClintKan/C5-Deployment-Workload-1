@@ -6,6 +6,8 @@ This is a workload/assignment to put into practice the use of Git in Ubuntu (Lin
 
 
 **SYSTEM DESIGN DIAGRAM**
+
+
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/9c43e9ef-308c-40e0-8bd0-99a030f8cc72">
 
 
