@@ -97,16 +97,10 @@ _Step 8_
 <img width="443" alt="image" src="https://github.com/user-attachments/assets/128b6134-68fa-4cab-941f-3d189f21ade9">
 
 
-
-
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/904b3ea0-6ffd-4a87-b380-c63462692438">
-
-
 
  
 <img width="382" alt="image" src="https://github.com/user-attachments/assets/356b9e99-0d49-4b2c-94d8-46419c685548">
-
-
 
  
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/27d02a9c-27b0-4b2e-969d-05f9b39913f8">
