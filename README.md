@@ -129,5 +129,3 @@ Unfortunately, the WebApp was not accessible via the above link – despite the 
 **_CONLCUSION_**
 
 While the WebApp was successfully deployed in a partially automated way, the whole CI/CD process can be fully automated. Additionally, the how-to step-by-step documentation can be a bit clearer – spelling out the configurations that have to be done in AWS Elastic BeanStalk environment.
-
-![image](https://github.com/user-attachments/assets/12a8bcd6-dbc4-4d19-a42e-c0dc1b15ee42)
